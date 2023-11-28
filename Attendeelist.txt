@@ -1,0 +1,19 @@
+------------------------
+Camp Name: wintercamp
+Date: 2020-06-06
+Registration Closing Date: 2020-04-04
+User Group: ntu
+Location: ntu
+Staff in Charge: Datta
+Total Slots: 10
+Camp Committee Slots: 10
+Description: 10
+Visibility: true
+------------------------
+
+
+Attendee 1:
+Name: YCHERN
+Role: Camp Committe Member
+Faculty: SCSE
+

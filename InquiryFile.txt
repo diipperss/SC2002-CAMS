@@ -1,0 +1,12 @@
+Sender: KOH1
+Inquiry: bye
+Camp: SUMMERCAMP
+Reply: hi
+Replier: Datta
+
+Sender: KOH1
+Inquiry: hi
+Camp: WINTERCAMP
+Reply: hi
+Replier: CHERN
+
